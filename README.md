@@ -1,2 +1,2 @@
 # nyc_subway_project
-analyze nyc_subway crime using Cuda and PySpark to run algorithms
+analyze nyc_subway crime using PySpark and pyopencl to run algorithms
